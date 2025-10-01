@@ -14,18 +14,6 @@ Une application de reconnaissance faciale en temps réel utilisant Python, OpenC
 
 ---
 
-## Structure du projet
-
-face_recognition/
-│
-├─ main.py # Script principal de reconnaissance faciale
-├─ requirements.txt # Dépendances du projet
-├─ persons/ # Répertoire contenant les images des personnes à reconnaître
-└─ venv/ # Environnement virtuel Python
-
-
----
-
 ## Prérequis
 
 - Python 3.8 ou supérieur (Python 3.13 peut poser problème avec certaines dépendances comme `dlib`)
